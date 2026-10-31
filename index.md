@@ -38,7 +38,7 @@
 
   <p>Exception Report Summary Sheet after QA/QC Checks</p>
   <img src="Images/QA-QC-Report-Summary.png" alt="Exception Report Summary Sheet after QA/QC Checks" width="500" height="300">
-  <p><a href="https://github.com/your-username/your-repo">View the code on GitHub</a></p>
+  <p><a href="https://github.com/PriyankaSagwekar/EDD-Validation-Engine-and-QA-QC">View the code on GitHub</a></p>
 </section>
 
 ### Project 2
