@@ -6,9 +6,40 @@
 ## Check out my Projects!
 
 ### Project 1
-**The "Mock EQuIS" EDD Validator & Lab Schedule Tracker**
-<br> **Target Skills:** EDD Management, Laboratory Coordination, Automated QA/QC, Python/SQL, Data Modeling, Database management
-<br> **The Concept:** Create an automated data-ingestion tool that mimics how enterprise software like EQuIS validates incoming laboratory files before final database commit.
+<section class="project">
+  <h2>Automated Environmental QA/QC &amp; EDD Validation Engine</h2>
+  <p class="tech"><em>Python · SQL Server · pandas · Excel reporting · GIS</em></p>
+
+  <p>
+    Laboratory data must be checked before it reaches a project database. This is a pipeline
+    that automates those checks. It loads lab Electronic Data Deliverables (EDDs) from CSV or
+    Excel into a SQL Server staging area. It then runs 36 automated QA/QC rules and writes a
+    formatted Excel exception report for each file. Only data that passes is promoted to the
+    master database, with standard validation qualifiers attached.
+  </p>
+
+  <h3>Key features</h3>
+  <ul>
+    <li>Checks holding times, blank contamination, surrogate and spike recoveries, field duplicates and detection limits.</li>
+    <li>Also checks cooler temperatures, borehole depths, well screens and links to reference data.</li>
+    <li>Keeps every limit in database tables, so a data manager can change rules without touching code.</li>
+    <li>Uses a data model based on EQuIS, with a stored procedure that promotes clean data in one transaction.</li>
+    <li>Produces an import decision for each file: go, partial or no-go.</li>
+    <li>Exports each location's QC status in British National Grid coordinates, ready for ArcGIS.</li>
+  </ul>
+
+  <h3>Results</h3>
+  <ul>
+    <li>Tested on six simulated lab files for a fictional UK site, covering groundwater and soil.</li>
+    <li>Caught all 53 deliberately injected errors, with zero false alarms on clean data.</li>
+    <li>Correctly rejected one badly broken file and partly promoted the other five.</li>
+    <li>Covered by 17 automated tests, including an end-to-end SQL Server test.</li>
+  </ul>
+
+  <p>Exception Report Summary Sheet after QA/QC Checks</p>
+  <img src="https://github.com/PriyankaSagwekar/PriyankaSagwekar.github.io/blob/main/Images/QA-QC-Report-Summary.png" alt="Exception Report Summary Sheet after QA/QC Checks" width="500" height="300">
+  <p><a href="https://github.com/your-username/your-repo">View the code on GitHub</a></p>
+</section>
 
 ### Project 2
 **Interactive AGS 4 Borehole & Groundwater Log Profiler**
