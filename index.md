@@ -57,5 +57,5 @@
 <br> **The Concept:** Synthetic AGS4 dataset modeling a benzene leak scenario across five monitoring locations at the refinery. 3D cross-sections and subsurface soil profiles in ArcGIS Pro using this AGS data
 
 ## Certifications
-[Fundamentals of ArcGIS](https://www.coursera.org/learn/gis?specialization=gis) by University of California, Davis on Coursera <br>
+[Fundamentals of ArcGIS](https://coursera.org/share/e6d48ea8088d4a94b603c41b0cadcfb8) by University of California, Davis on Coursera <br>
 Specialisation in Progress.
