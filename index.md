@@ -59,6 +59,10 @@
 ## Certifications
 [Fundamentals of ArcGIS](https://coursera.org/share/e6d48ea8088d4a94b603c41b0cadcfb8) by University of California, Davis on Coursera <br><br>
 <i>As part of the course practicals, I developed and exported a map of the river and watershed systems in the Navarro region of California, USA. Throughout this project, I explored a wide range of cartographic features and ArcGIS tools. Specifically, I gained hands-on experience in connecting databases and data sources, creating multi-layered maps, utilizing basemaps, and applying advanced symbology and labeling. I also incorporated essential map elements such as north arrows, map scales, metadata, and dynamic text, while learning how to generate automated map series. Furthermore, I utilized core geoprocessing tools—including proximity and buffer analyses—and managed spatial data through table joins, spatial joins, and relates. This analytical workflow was highly rewarding, and I thoroughly enjoyed bringing the data to life.</i><br><br>
-<img src="Images/Landscape Layout.jpg" alt="Snapshot of map developed in ArcGIS" width="500" height="400">
-
+<img src="Images/Navarro_River_Systems.jpg" alt="Snapshot of map developed in ArcGIS" width="500" height="400">
+<br><br>
+<i>More interestingly as a part of final project for the course, I worked on GIS analysis of wildfires impact in California. Please check out my map package [here](https://ucd-cpe.maps.arcgis.com/home/item.html?id=771eb48128f64f5b945c08ca292a3242#overview)</i>
+<br>
+<img src="Images/Wildfire_Impact_California.jpg" alt="Snapshot of map developed in ArcGIS" width="400" height="475">
+<br><br>
 Specialisation in GIS (including 3 other courses) is in Progress.
