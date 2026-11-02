@@ -57,5 +57,8 @@
 <br> **The Concept:** Synthetic AGS4 dataset modeling a benzene leak scenario across five monitoring locations at the refinery. 3D cross-sections and subsurface soil profiles in ArcGIS Pro using this AGS data
 
 ## Certifications
-[Fundamentals of ArcGIS](https://coursera.org/share/e6d48ea8088d4a94b603c41b0cadcfb8) by University of California, Davis on Coursera <br>
-Specialisation in Progress.
+[Fundamentals of ArcGIS](https://coursera.org/share/e6d48ea8088d4a94b603c41b0cadcfb8) by University of California, Davis on Coursera <br><br>
+<i>As part of the practice during the course, I have developed and exported following map of River and Watershed systems of Navarro region of California, US. I have explored different of features of cartography and ArcGIS software like adding databases, data sources, creating different map layers, explored base maps, used symbology, labeling, north arrow, map scale, adding metadata, dynamic text, exporting the files, learnt about map series, used geoprocessing tools like proximity (Analysis), buffer (Analysis), used table joins, spatial joins, relates. Analyzed the data and had lots of fun executing it.</i><br><br>
+<img src="Images/Landscape Layout.jpg" alt="Snapshot of map developed in ArcGIS" width="500" height="400">
+
+Specialisation in GIS (including 3 other courses) is in Progress.
