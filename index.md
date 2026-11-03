@@ -1,7 +1,30 @@
 #### Contact Information
 * priyankasag10@gmail<!-- -->.com
 * Reading, UK
+* Right to work in the UK (No sponsorship required - Skilled Worker Dependent Visa)
 * [Linkedin](https://www.linkedin.com/in/priyanka-sagwekar-aa755a117/)
+
+## Professional Experience Highlights
+<section class="professional-experience">    
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #444; margin-bottom: 1.2rem;">
+        Beyond building open-source environmental data tools, I bring <strong>5.5+ years of experience as a Senior Data Analyst</strong> in heavy industry and energy sectors (including <strong>Phillips 66</strong> and <strong>SABIC</strong>).
+    </p>    
+    <ul style="list-style-type: disc; padding-left: 1.5rem; font-size: 1.05rem; line-height: 1.6; color: #444;">
+        <li style="margin-bottom: 0.8rem;">
+            <strong>UK Regulatory Compliance (Humber Refinery):</strong> Spearheaded the migration of complex legacy Excel environmental permit calculations into the <strong>OSIsoft PI Asset Framework (PIAF)</strong>. Configured data structures to automate compliance checks for varying monitoring frequencies and legal effluent limits.
+        </li>
+        <li style="margin-bottom: 0.8rem;">
+            <strong>LIMS &amp; Effluent Tracking:</strong> Managed large-scale LIMS (Laboratory Information Management Systems) ingestion pipelines and developed interactive monitoring dashboards for Effluent Treatment Plants (ETP) to prevent permit exceedances.
+        </li>
+        <li style="margin-bottom: 0.8rem;">
+            <strong>Emissions Governance:</strong> Built automated data workflows to track and report atmospheric NOx and SOx emissions against strict industrial permit allowance thresholds.
+        </li>
+        <li style="margin-bottom: 0.8rem;">
+            <strong>Rapid Prototyping (Power Apps POC):</strong> Designed and deployed a Microsoft Power App MVP to digitise field data collection for coke sampling, establishing clean data tracking for Chain of Custody (CoC) and sample coding straight to the database.
+        </li>
+    </ul>
+</section>
+
 
 ## Check out my Projects!
 
